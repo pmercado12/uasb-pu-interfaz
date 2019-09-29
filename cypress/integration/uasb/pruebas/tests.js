@@ -46,7 +46,7 @@ describe('Pruebas', () => {
         let header = new Header();
         header.getButtonLogout().should('be.visible');
     });
-    
+
     it('Crear Nota', () => {
         let homePage = new HomePage();
         homePage.irRegisterLogin();

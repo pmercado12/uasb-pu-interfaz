@@ -1,25 +1,25 @@
 {
-  "name": "ng-store-cypress",
+  "name": "uasb-pu-interfaz",
   "version": "1.0.0",
-  "description": "Some sample tests for a license plate store",
+  "description": "UASB Pruebas unitarias de interfaz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alcfeoh/ng-store-cypress.git"
+    "url": "git+https://github.com/pmercado12/uasb-pu-interfaz.git"
   },
   "keywords": [
     "cypress",
-    "angular"
+    "javascript"
   ],
-  "author": "Alain Chautard",
-  "license": "ISC",
+  "author": "Pedro Mercado",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alcfeoh/ng-store-cypress/issues"
+    "url": "https://github.com/pmercado12/uasb-pu-interfaz/issues"
   },
-  "homepage": "https://github.com/alcfeoh/ng-store-cypress#readme",
+  "homepage": "https://github.com/pmercado12/uasb-pu-interfaz#readme",
   "dependencies": {},
   "devDependencies": {
     "cypress": "^3.4.1"
